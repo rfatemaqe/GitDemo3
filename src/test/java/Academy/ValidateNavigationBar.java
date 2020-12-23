@@ -26,7 +26,7 @@ public class ValidateNavigationBar extends Base {
 	@Test
 	public void basePageNavigation() throws IOException {
 		
-	
+	System.out.println("this is the first change");
 	
 	LandingPage l = new LandingPage(driver);
 	
