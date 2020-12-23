@@ -1,0 +1,35 @@
+# Created on 2020-04-04T22:52:36.352
+java.lang.Error: Unresolved compilation problems: 
+	The import com.relevantcodes cannot be resolved
+	The import com.relevantcodes cannot be resolved
+	The import com.relevantcodes cannot be resolved
+	ExtentReports cannot be resolved to a type
+	ExtentReports cannot be resolved to a type
+	ExtentReports cannot be resolved to a type
+	LogStatus cannot be resolved to a variable
+	LogStatus cannot be resolved to a variable
+	LogStatus cannot be resolved to a variable
+	ExtentReports cannot be resolved to a type
+	ExtentReports cannot be resolved to a type
+	LogStatus cannot be resolved to a type
+	ExtentTest cannot be resolved to a type
+	ExtentReports cannot be resolved to a type
+	ExtentReports cannot be resolved to a type
+
+	at resources.ExtentReporterNg.<init>(ExtentReporterNg.java:16)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:490)
+	at java.base/java.lang.Class.newInstance(Class.java:584)
+	at org.testng.internal.ClassHelper.newInstance(ClassHelper.java:49)
+	at org.testng.TestNG.initializeConfiguration(TestNG.java:906)
+	at org.testng.TestNG.run(TestNG.java:1005)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:283)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:120)
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:386)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:323)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:143)
+
+
