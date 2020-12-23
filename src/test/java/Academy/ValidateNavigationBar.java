@@ -27,6 +27,7 @@ public class ValidateNavigationBar extends Base {
 	public void basePageNavigation() throws IOException {
 		
 	System.out.println("this is the first change");
+	System.out.println("this is the second change from original person");
 	
 	LandingPage l = new LandingPage(driver);
 	
